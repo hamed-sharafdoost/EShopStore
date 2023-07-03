@@ -1,5 +1,8 @@
 # EShopStore
 ## This is an electronic shop that was built based on .NET Core and ASP.NET
-###Architecture:
+**Architecture:**
 > Implemented with Clean Architecture to gain loosley coupling and cohesion
->> It includes 3 layers
+
+> It includes 3 layers : ApplicationCore,Infrastructure and WebUI
+
+**It is still in _development_ stage**
