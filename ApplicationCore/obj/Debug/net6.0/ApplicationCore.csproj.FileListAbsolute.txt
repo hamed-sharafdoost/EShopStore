@@ -1,0 +1,12 @@
+C:\Users\nt924\source\repos\ApplicationCore\ApplicationCore\bin\Debug\net6.0\ApplicationCore.deps.json
+C:\Users\nt924\source\repos\ApplicationCore\ApplicationCore\bin\Debug\net6.0\ApplicationCore.dll
+C:\Users\nt924\source\repos\ApplicationCore\ApplicationCore\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Users\nt924\source\repos\ApplicationCore\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\nt924\source\repos\ApplicationCore\ApplicationCore\obj\Debug\net6.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nt924\source\repos\ApplicationCore\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\nt924\source\repos\ApplicationCore\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\nt924\source\repos\ApplicationCore\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\nt924\source\repos\ApplicationCore\ApplicationCore\obj\Debug\net6.0\ApplicationCore.dll
+C:\Users\nt924\source\repos\ApplicationCore\ApplicationCore\obj\Debug\net6.0\refint\ApplicationCore.dll
+C:\Users\nt924\source\repos\ApplicationCore\ApplicationCore\obj\Debug\net6.0\ApplicationCore.pdb
+C:\Users\nt924\source\repos\ApplicationCore\ApplicationCore\obj\Debug\net6.0\ref\ApplicationCore.dll
