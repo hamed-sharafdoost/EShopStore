@@ -8,6 +8,6 @@
         public string? Address { get; set; }
         public string? phonenumber { get; set; }
         public DateTime CreationTime { get; set; }
-        public int UserRoleId { get; set; }
+        public int UserRoleId { get; set; }    
     }
 }

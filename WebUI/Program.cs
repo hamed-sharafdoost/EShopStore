@@ -9,7 +9,6 @@ using WebUI;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
@@ -18,6 +17,7 @@ builder.Services.AddDbContext<MainContext>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddRazorPages();
 builder.Services.AddSwaggerGen(v => v.SwaggerDoc("v1", new OpenApiInfo
 {
     Title = "Test Eshop APIs",
@@ -40,6 +40,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 app.UseAuthorization();
+app.MapRazorPages();
 app.UseSwagger();
 app.UseSwaggerUI(c => c.SwaggerEndpoint(
 "/swagger/v1/swagger.json", "Test Eshop APIs"));
@@ -50,3 +51,4 @@ app.MapControllerRoute(
     pattern: "{controller=User}/{action}/{id?}");
 
 app.Run();
+
